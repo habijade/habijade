@@ -3,7 +3,7 @@
 
 :fire: Je m'apelle Jade et j'ai 27 ans :fire:  
 :point_right: Je suit actuellement la formation Développeur d'Applications Java :coffee: en alternance avec Openclassrooms 
-### Voici mes projets 👯  
+### Voici mes projets :mag_right:  
 | Nom du projet       | Description             | Technologies utilisées | Lien |
 | -------------       | -----------             | --------------------- | ---- |
 | :pill: Hemebiotech         | Outil d'analyse des tendances | Java, Intellij Idea | https://github.com/habijade/Projet02Hemebiotech |
