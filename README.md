@@ -2,7 +2,7 @@
 
 
 :sunflower:Je m'apelle Jade et j'ai 27 ans ✨  
-Je suit actuellement la formation Développeur d'Applications Java en alternance avec Openclassrooms ✨ 
+Je suit actuellement la formation Développeur d'Applications Java :mortar_board: en alternance avec Openclassrooms ✨ 
 ### Voici mes projets 👯  
 | Nom du projet       | Description             | Technologies utilisées | Lien |
 | -------------       | -----------             | --------------------- | ---- |
