@@ -1,8 +1,8 @@
 ### Bonjour à tous :raising_hand_woman:
 
 
-:fire: Je m'apelle Jade et j'ai 27 ans :fire:
-:black_nib: Je suit actuellement la formation Développeur d'Applications Java :mortar_board: en alternance avec Openclassrooms ✨ 
+:fire: Je m'apelle Jade et j'ai 27 ans :fire:  
+:arrow_right: Je suit actuellement la formation Développeur d'Applications Java :mortar_board: en alternance avec Openclassrooms 
 ### Voici mes projets 👯  
 | Nom du projet       | Description             | Technologies utilisées | Lien |
 | -------------       | -----------             | --------------------- | ---- |
