@@ -1,7 +1,7 @@
-### Bonjour à tous 👋:raising_hand_woman:
+### Bonjour à tous :raising_hand_woman:
 
 
-Je m'apelle Jade et j'ai 27 ans ✨  
+:sunflower:Je m'apelle Jade et j'ai 27 ans ✨  
 Je suit actuellement la formation Développeur d'Applications Java en alternance avec Openclassrooms ✨ 
 ### Voici mes projets 👯  
 | Nom du projet       | Description             | Technologies utilisées | Lien |
