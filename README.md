@@ -1,4 +1,4 @@
-### Bonjour à tous 👋
+### Bonjour à tous 👋:raising_hand_woman:
 
 
 Je m'apelle Jade et j'ai 27 ans ✨  
