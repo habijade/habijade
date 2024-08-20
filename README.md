@@ -1,8 +1,5 @@
 ### Bonjour à tous :raising_hand_woman:
 
-
-:fire: Je m'apelle Jade et j'ai 27 ans :fire:  
-:point_right: Je suis en formation Concepteur de Logiciels Java :coffee: en alternance avec Openclassrooms 
 ### Voici mes projets :mag_right:  
 | Nom du projet       | Description             | Technologies utilisées | Lien |
 | -------------       | -----------             | --------------------- | ---- |
